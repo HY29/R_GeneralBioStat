@@ -11,7 +11,7 @@ ggplot2パッケージを用いて、<br>
 ### 統計検定
 2標本検定　Welch's t-test
 <br>
-分散分析 (One-way) ANOVA, Two-way ANOVA
+分散分析　One-way ANOVA, Two-way ANOVA
 <br>
 多重補正　FDR etc.
 <br>
