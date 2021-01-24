@@ -5,13 +5,16 @@
 「Pheno」ディレクトリ内のデータ型を用いて可視化と統計検定が可能
 
 ### データの可視化
-ggplot2パッケージを用いて、
+ggplot2パッケージを用いて、<br>
 棒グラフによる平均値とエラーバーの記述、および生データをプロットすることでデータの分布を可視化する．
 
 ### 統計検定
 2標本検定　Welch's t-test
+<br>
 分散分析 (One-way) ANOVA, Two-way ANOVA
+<br>
 多重補正　FDR etc.
+<br>
 多重検定　Tukey's HSD test, Dunnett's test
 Tukey's検定では、処理区間の違いをアルファベットの違いで出力
 
